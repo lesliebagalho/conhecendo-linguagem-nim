@@ -110,12 +110,6 @@ Você agora está com o Nim instalado corretamente no Windows, com terminal func
 
 ---
 
-### 🔁 Quer continuar?
+### 🔁 Resultado da primeira execução
 
-Se quiser, posso te dar:
-
-* Um **template de projeto básico com estrutura organizada**
-* Como fazer **CLI tools com argumentos**
-* Um mini curso introdutório com exemplos
-
-Só dizer!
+![alt text](image.png)
